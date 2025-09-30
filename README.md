@@ -1,24 +1,34 @@
-# CMP9142 Cloud and Applied AI Workshops
-Weekly Workshop Files
+# 📘 CMP9142 – Cloud and Applied AI Workshops
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI
+Welcome to the repository for **CMP9142 Cloud and Applied AI**.  
+This repo hosts workshop materials and related resources, all accessible via GitHub Pages.
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/gcp_signup.html
+---
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop1.html
+## 🌐 Live Pages
+- [Main Site](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI)
+- [GCP Signup Guide](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/gcp_signup.html)
+- [Workshop 1](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop1.html)
 
-<!--
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop2.html
+---
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop3.html
+## 📅 Upcoming Workshops (placeholders)
+> These links will become active as new content is added.
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop4.html
+- Workshop 2  
+- Workshop 3  
+- Workshop 4  
+- Workshop 5  
+- Workshop 6  
+- Workshop 7  
+- Workshop 8  
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop5.html
+---
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop6.html
+## 🛠️ How to Use
+- Click the links above to view workshop content directly in your browser.
+- Materials are updated weekly. Refresh the page or check back here for the latest content.
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop7.html
+---
 
-https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop8.html 
--->
+✍️ Maintained by **[malkhafajiy](https://github.com/malkhafajiy)**
