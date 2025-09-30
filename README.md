@@ -1,4 +1,4 @@
-# CMP2808M Cloud Computing Workshops
+# CMP9142 Cloud and Applied AI Workshops
 Weekly Workshop Files
 
 https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI
