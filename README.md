@@ -7,8 +7,8 @@ This repo hosts workshop materials and related resources, all accessible via Git
 
 ## 🌐 Live Pages
 - [Main Site](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI)
-- [GCP Signup Guide](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/gcp_signup.html)
-- [Workshop 1](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop1.html)
+- [GCP Signup Guide - Google Cloud Skills Boost – Account Setup](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/gcp_signup.html)
+- [Workshop 1 - Cloud Setup & Warm-up Activities](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop1.html)
 
 ---
 
