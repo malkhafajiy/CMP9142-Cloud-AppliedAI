@@ -12,7 +12,7 @@ This repo hosts workshop materials and related resources, all accessible via Git
 
 - [Workshop 2 - Infrastructure-as-Code using Terraform](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop2.html)
 
-- [Workshop 3 - Cloud storage services](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop2.html)
+- [Workshop 3 - Cloud storage services](https://malkhafajiy.github.io/CMP9142-Cloud-AppliedAI/workshop3.html)
 
 
 ---
